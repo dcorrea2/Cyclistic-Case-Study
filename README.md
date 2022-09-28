@@ -3,7 +3,7 @@ Case study to complete Google Data Analytics Professional Certificate
 
 
 To complete the case study I used Microsoft Excel and Google Spreadsheets
-A SQL based tool would have been better but they required payment for access and BiqQuery wouldn't allow large files for their free version.
+A SQL based tool would have been better but they required payment for access and BigQuery wouldn't allow large files for their free version.
 Opted to just use spreadsheet tools instead
 
 Link to Original Data https://divvy-tripdata.s3.amazonaws.com/index.html
